@@ -1,0 +1,6 @@
+title: Your awesome title
+email: your-email@domain.com
+exclude:
+  - node_modules
+  - gulpfile.js
+  - package.json
